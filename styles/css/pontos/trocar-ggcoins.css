@@ -1,0 +1,147 @@
+.title-acess {
+    font-family: cursive;
+}
+
+.beneficios-box-shadow:hover {
+    box-shadow: 0 4px 15px rgb(6 208 149 / 40%) !important;
+}
+
+.title-chamada-beneficio {
+    font-size: 27px;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #000;
+}
+
+.image-row img {
+    max-width: 180px;
+    height: auto;
+    border-radius: 8px;
+    margin: 0 auto;
+}
+
+.icon-round {
+    position: absolute;
+    right: -26px;
+    top: 37px;
+}
+
+.card-text {
+    position: initial;
+}
+
+
+.lib-panel .lib-row.lib-header {
+    background-color: #FFFFFF;
+    font-size: 20px;
+    padding: 0px 20px 0 20px;
+}
+
+.lib-panel .lib-row.lib-header .lib-header-seperator {
+    height: 2px;
+    width: 100%;
+    margin: 7px 0 7px 0;
+}
+
+.lib-header-seperator.one {
+    background-color: #fc4f30;
+}
+
+.lib-header-seperator.two {
+    background-color: #13161e;
+}
+
+.lib-header-seperator.tree {
+    background-color: #f3c309;
+}
+
+.lib-header-seperator.four {
+    background-color: #F81097;
+}
+
+.lib-header-seperator.five {
+    background-color: #1cc88a;
+}
+
+.lib-header-seperator.default {
+    background-color: #222835;
+}
+
+.lib-panel .lib-row.lib-desc {
+    position: relative;
+    height: auto;
+    display: block;
+    font-size: 13px;
+}
+
+.lib-panel .lib-row.lib-desc a {
+    width: 100%;
+    bottom: 10px;
+    left: 20px;
+}
+
+.box-shadow {
+    background: #fff;
+    box-shadow: 0 1px 5px rgba(153, 153, 153, 0.3);
+}
+
+.box-shadow:hover {
+    box-shadow: 0 4px 15px rgba(153, 153, 153, 0.3);
+    transition: .3s;
+}
+
+.badge-default.default {
+    background-color: #222835;
+    color: #FFFFFF;
+}
+
+.btn-default.default {
+    background-color: #222835;
+    color: #FFFFFF;
+}
+
+.btn-default.default:hover {
+    background-color: #1a1e26;
+}
+
+.btn-default.default:focus {
+    box-shadow: 0 0 0 0.2rem rgba(26, 30, 38, 0.5);
+}
+
+.btn-new {
+    background-color: #F81097;
+    color: #FFFFFF;
+}
+
+.badge-new {
+    background-color: #F81097;
+    color: #FFFFFF;
+}
+
+.btn-new:hover {
+    background-color: #F81097;
+    color: #FFFFFF;
+}
+
+.btn-pix {
+    color: #fff;
+    background-color: #8e0583;
+    border-color: #8e0583;
+}
+
+.btn-pix:hover {
+    color: #fff;
+    background-color: #740978;
+}
+
+.btn-pix:focus {
+    box-shadow: 0 0 0 0.2rem rgba(142, 5, 131, 0.25);
+}
+
+.badge-promocao {
+    position: absolute;
+    top: -10px;
+    right: 20px;
+    font-size: 13px;
+    padding: 0.4em;
+}
